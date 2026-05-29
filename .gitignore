@@ -1,0 +1,15 @@
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfstate.*.backup
+*.tfvars
+*.tfvars.json
+*.override.tf
+*.override.tf.json
+.idea/
+*.iml
+modules.xml
+workspace.xml
+Thumbs.db
+ehthumbs.db
+Desktop.ini
